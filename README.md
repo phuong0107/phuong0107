@@ -18,7 +18,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/phuong0107/count.svg" />
-</p>-->
+</p>
 
 ## About me
 
