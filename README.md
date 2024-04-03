@@ -21,7 +21,7 @@
 </p>
 
 ## About me
-
+![](https://github-readme-stats.vercel.app/api?username=phuong0107&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuong0107&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuong0107&layout=compact\&theme=radical)
