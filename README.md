@@ -1,6 +1,5 @@
-### Hi there 👋
----
-<!-- [![](https://visitcount.itsvg.in/api?id=phuong0107&icon=0&color=4)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=phuong0107&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!--## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fuong0107) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@hfuongg._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ha-phuong-cao-thi-193a66247/)
